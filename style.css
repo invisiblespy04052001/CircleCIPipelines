@@ -1,0 +1,14 @@
+body {
+    background-image: url("campaign-dwight\ 2.20.36\ PM.jpg");
+    margin: auto;
+    background-size: 90em;
+    background-attachment: fixed;
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+}
+
+.my-container{
+   justify-content: flex-start;
+}
+
